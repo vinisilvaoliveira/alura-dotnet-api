@@ -6,3 +6,6 @@ instaladores:
 
 
 API = Application Programming Interface
+
+- CRUD
+
